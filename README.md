@@ -2,7 +2,7 @@
 
 <h3 align="center">Backend Engineer &nbsp;•&nbsp; Distributed Systems &nbsp;•&nbsp; AI / ML</h3>
 
-<p align="center">
+<p align="center"> 
   <em>MS in Computer Science @ Stevens Institute of Technology &nbsp;|&nbsp; Hoboken, NJ</em>
 </p>
 
