@@ -42,9 +42,9 @@
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,go,cpp" alt="Languages" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,redis,postgres,docker,aws" alt="Backend & Infra" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,git,linux" alt="AI/ML & Tools" />
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,go,cpp" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,redis,postgres,docker,aws" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,git,linux" />
 </p>
 
 ---
@@ -53,11 +53,13 @@
 
 **🔬 Backend Engineer — Distributed ML Platform**
 **Stevens Institute of Technology** &nbsp;·&nbsp; Nov 2025 – Present &nbsp;·&nbsp; Hoboken, NJ
+
 - Architecting a distributed profiling platform for federated ML collecting energy metrics from **100+ edge devices** in real-time
 - Built scalable backend with TensorFlow.js, Socket.IO & Redis for per-layer power data across heterogeneous device networks
 
 **🚀 Founding Engineer — Placement Intelligence Platform**
 **D.J. Sanghvi College of Engineering** &nbsp;·&nbsp; May 2024 – Jun 2025 &nbsp;·&nbsp; Mumbai, India
+
 - Built & scaled backend from scratch for **500+ students**, handling **10K+ requests/day** at <200ms p95 latency
 - Deployed ML microservices: spaCy resume parser (**95% accuracy**) and real-time CV pipeline at **30 FPS**
 
