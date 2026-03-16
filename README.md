@@ -2,7 +2,7 @@
 
 <h3 align="center">Backend Engineer &nbsp;•&nbsp; Distributed Systems &nbsp;•&nbsp; AI / ML</h3>
 
-<p align="center"> 
+<p align="center">
   <em>MS in Computer Science @ Stevens Institute of Technology &nbsp;|&nbsp; Hoboken, NJ</em>
 </p>
 
@@ -81,8 +81,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KPandya1903&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPandya1903&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=KPandya1903&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KPandya1903&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
