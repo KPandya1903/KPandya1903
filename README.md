@@ -18,7 +18,7 @@
 - 🚀 Former **Founding Engineer** — scaled a placement platform to 500+ students, 10K+ API requests/day
 - 🧠 Passionate about **Distributed Systems, System Design, and AI/ML**
 - 💬 Ask me about **Java, Python, gRPC, Redis, TensorFlow, Distributed Architectures**
-- 🌐 Portfolio: [kunjpandya.com]([https://kunjpandya.com](https://kunjpandya.vercel.app/))
+- 🌐 Portfolio: [kunjpandya.com](https://kunjpandya.com](https://kunjpandya.vercel.app/)
 - 📫 Reach me at **kunjspandya@gmail.com**
 
 ---
