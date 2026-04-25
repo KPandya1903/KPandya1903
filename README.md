@@ -69,12 +69,12 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [🌐 P2P Event Mesh](https://github.com/KPandya1903/High-Performance-Decentralized-P2P-Event-Mesh) | Decentralized event mesh with Chord DHT — zero SPOF, tested on Amazon EC2 | Java · gRPC · Protobuf |
-| [⚡ Pulse Orchestrator](https://github.com/KPandya1903/Pulse-Orchestrator) | Distributed task orchestrator — 10K+ tasks/day, 99.9% reliability | Python · FastAPI · Redis |
-| [📈 Dummy Trading](https://github.com/KPandya1903/Dummy-Trading) | Paper trading with ML ensemble predictions (LSTM + GRU + Holt-Winters) | TypeScript · Node.js · TF.js |
-| [🚗 Vehicle Matching](https://github.com/KPandya1903/Vehicle-Matching-System) | CV pipeline — 94% accuracy across 100K+ images, GPU-accelerated | Python · YOLO · CUDA |
+| [🌐 NexusMesh](https://github.com/KPandya1903/NexusMesh) | Decentralized event mesh with Chord DHT — zero SPOF, tested on Amazon EC2 | Java · gRPC · Protobuf |
+| [⚡ TaskPulse](https://github.com/KPandya1903/TaskPulse) | Distributed task orchestrator — 10K+ tasks/day, 99.9% reliability | Python · FastAPI · Redis |
+| [📈 TradeFlow](https://github.com/KPandya1903/TradeFlow) | Paper trading with ML ensemble predictions (LSTM + GRU + Holt-Winters) | TypeScript · Node.js · TF.js |
+| [🚗 FleetIQ](https://github.com/KPandya1903/FleetIQ) | CV pipeline — 94% accuracy across 100K+ images, GPU-accelerated | Python · YOLO · CUDA |
 | [🤖 Credit Risk System](https://github.com/KPandya1903/Credit-Risk-Inference-System) | XGBoost inference — 91% AUC-ROC, real-time Flask API <200ms | Python · XGBoost · Flask |
-| [☁️ CF Doc Explorer](https://github.com/KPandya1903/cf_ai_doc-explorer-for-CloudFlare) | Semantic search on Cloudflare edge — 70ms cold start, BGE + Gemini | TypeScript · CF Workers |
+| [☁️ DocLens](https://github.com/KPandya1903/DocLens) | Semantic search on Cloudflare edge — 70ms cold start, BGE + Gemini | TypeScript · CF Workers |
 
 ---
 
